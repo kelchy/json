@@ -1,7 +1,7 @@
 [
   {
     "action": "talk",
-    "text": "<speak><s>you have reached jetpac global!</s> <s>for any inquiries, message us on whatsapp or send an email to<break time='1s' /> support@jetpacglobal.com</s> <s>thank you!</s></speak>",
+    "text": "<speak><s>you have reached jetpac global!</s> <s>for any inquiries, message us on whatsapp or send an email to support@jetpac-global.com</s> <s>thank you!</s></speak>",
     "language": "en-US",
     "style": 2,
     "level": 0.5
