@@ -1,8 +1,8 @@
 [
   {
     "action": "talk",
-    "text": "thank you for calling jetpac support, please message us on whatsapp or email support@jetpacglobal.com for any inquiries",
+    "text": "<speak><s>you have reached jetpac global!</s> <s>please message us on whatsapp, or email support@jetpacglobal.com for any inquiries</s> <s>thank you!</s></speak>",
     "language": "en-US",
-    "style": "2"
+    "style": 2
   }
 ]
