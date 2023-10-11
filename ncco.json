@@ -1,0 +1,10 @@
+[
+  {
+    "action": "talk",
+    "text": "thank you for calling jetpac support, please message us on whatsapp or email support@jetpacglobal.com for any inquiries",
+    "language": "en-US",
+    "style": 2,
+    "loop": 2,
+    "bargeIn": true
+  }
+]
